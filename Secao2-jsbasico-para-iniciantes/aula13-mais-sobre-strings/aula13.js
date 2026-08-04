@@ -1,4 +1,5 @@
 //          0123456789
-let voce = "voce sabia"
+let voce = "voce sabia que eu nao sei de nada"
 
-console.log(voce.indexOf("a", 10))
+console.log(voce.toUpperCase())
+console.log(voce.toLowerCase())
